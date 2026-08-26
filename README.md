@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akhil
+#  Hi, I'm Akhil
 
 ### 💻 Computer Science Engineer | 🐧 Linux & DevOps Learner | 🔐 Cybersecurity Enthusiast
 
