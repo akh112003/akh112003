@@ -136,12 +136,7 @@ Hands-on cybersecurity learning, networking experiments and security notes.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akh112003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akh112003&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akh112003&theme=tokyonight&hide_border=true" />
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" width="700"/>
 </p>
 
 ---
@@ -149,7 +144,7 @@ Hands-on cybersecurity learning, networking experiments and security notes.
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akh112003&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="./assets/contribution-graph.svg" alt="GitHub Contribution Graph" width="900"/>
 </p>
 
 ---
