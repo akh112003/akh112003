@@ -3,7 +3,7 @@
 ### 💻 Computer Science Engineer | 🐧 Linux & DevOps Learner | 🔐 Cybersecurity Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Linux+%7C+Bash+%7C+DevOps+%7C+Cybersecurity;Learning+%7C+Building+%7C+Automating;Turning+Knowledge+Into+Real+Projects+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Linux+%7C+C+%7C+DevOps+%7C+Cybersecurity;Learning+%7C+Building+%7C+Automating;Turning+Knowledge+Into+Real+Projects+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 - 🎓 Computer Science Engineer
 - 🐧 Passionate about **Linux & System Administration**
-- 💻 Currently learning **Bash Scripting & Automation**
+- 💻 Currently learning **C Programming & Automation**
 - ☁️ Exploring **DevOps, Cloud & AWS**
 - 🔐 Interested in **Cybersecurity & Networking**
 - 🛠️ Love building practical projects and solving problems
@@ -29,7 +29,7 @@
 
 ```text
 🐧 Linux Administration
-💻 Bash Scripting
+💻 C Programming
 🌐 Networking Fundamentals
 ⚙️ DevOps & CI/CD
 ☁️ AWS & Cloud Basics
@@ -54,9 +54,8 @@
 ### 💻 Languages & Scripting
 
 <p>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 ### ⚙️ DevOps & Tools
@@ -94,16 +93,16 @@
 
 A practical collection of commonly used Linux commands with examples and explanations.
 
-**Tech:** `Linux` `Shell`
+**Tech:** `Linux` `C`
 
 </td>
 <td width="50%">
 
-### 💻 Bash Scripting Collection
+### 💻 C Programming Collection
 
-Beginner-to-advanced Bash scripting exercises and automation projects.
+Beginner-to-advanced C programming exercises and practical projects.
 
-**Tech:** `Bash` `Shell`
+**Tech:** `C`
 
 </td>
 </tr>
@@ -114,7 +113,7 @@ Beginner-to-advanced Bash scripting exercises and automation projects.
 
 Useful scripts, configurations and automation tools for DevOps learning.
 
-**Tech:** `Linux` `Bash` `DevOps`
+**Tech:** `Linux` `C` `DevOps`
 
 </td>
 <td width="50%">
@@ -154,7 +153,7 @@ Hands-on cybersecurity learning, networking experiments and security notes.
 ```text
 Linux
   └── System Administration
-        └── Bash Scripting
+        └── C Programming
               └── Automation
                     └── DevOps
                           ├── Git & GitHub
@@ -173,7 +172,7 @@ Networking
 # 🎯 My Goals
 
 - [ ] Become highly confident with Linux
-- [ ] Master Bash scripting
+- [ ] Improve C programming skills
 - [ ] Build real-world automation projects
 - [ ] Learn Docker & CI/CD
 - [ ] Strengthen networking fundamentals
@@ -199,7 +198,7 @@ Networking
 </p>
 
 <p align="center">
-  <b>🐧 Linux • 🐍 Python • 💻 Bash • ⚙️ DevOps • 🌐 Networking • 🔐 Cybersecurity</b>
+  <b>🐧 Linux • 🐍 Python • 💻 C • ⚙️ DevOps • 🌐 Networking • 🔐 Cybersecurity</b>
 </p>
 
 ---
