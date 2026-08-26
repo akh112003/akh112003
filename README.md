@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akhil
 
-### 💻 Computer Science Engineering Graduate | 🐧 Linux & DevOps Learner | 🔐 Cybersecurity Enthusiast
+### 💻 Computer Science Engineer | 🐧 Linux & DevOps Learner | 🔐 Cybersecurity Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Linux+%7C+Bash+%7C+DevOps+%7C+Cybersecurity;Learning+%7C+Building+%7C+Automating;Turning+Knowledge+Into+Real+Projects+%F0%9F%9A%80" />
@@ -14,7 +14,7 @@
 <tr>
 <td width="55%">
 
-- 🎓 Computer Science Engineering Graduate
+- 🎓 Computer Science Engineer
 - 🐧 Passionate about **Linux & System Administration**
 - 💻 Currently learning **Bash Scripting & Automation**
 - ☁️ Exploring **DevOps, Cloud & AWS**
