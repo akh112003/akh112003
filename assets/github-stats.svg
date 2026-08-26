@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="220" viewBox="0 0 700 220"><rect width="700" height="220" rx="14" fill="#0d1117"/><text x="25" y="30" fill="#f0f6fc" font-size="16" font-weight="700" font-family="Arial,sans-serif">akh112003 · GitHub Stats</text><rect x="25" y="50" width="305" height="68" rx="12" fill="#161b22" stroke="#30363d"/><text x="45" y="78" fill="#8b949e" font-size="14" font-family="Arial,sans-serif">Public Repositories</text><text x="45" y="104" fill="#c084fc" font-size="23" font-weight="700" font-family="Arial,sans-serif">5</text><rect x="370" y="50" width="305" height="68" rx="12" fill="#161b22" stroke="#30363d"/><text x="390" y="78" fill="#8b949e" font-size="14" font-family="Arial,sans-serif">Languages</text><text x="390" y="104" fill="#c084fc" font-size="20" font-weight="700" font-family="Arial,sans-serif">Python · Bash · Shell · C</text><rect x="25" y="135" width="650" height="60" rx="12" fill="#161b22" stroke="#30363d"/><text x="45" y="162" fill="#8b949e" font-size="13" font-family="Arial,sans-serif">Profile focus</text><text x="45" y="183" fill="#f0f6fc" font-size="14" font-family="Arial,sans-serif">Linux · DevOps · Networking · Cybersecurity</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="220" viewBox="0 0 700 220">
+<rect width="700" height="220" rx="14" fill="#0d1117"/>
+<text x="25" y="18" fill="#f0f6fc" font-size="12" font-family="Arial, sans-serif">akh112003 · public GitHub stats</text>
+<rect x="25" y="25" width="305" height="68" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="45" y="53" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">Repositories</text>
+<text x="45" y="79" fill="#c084fc" font-size="23" font-weight="700" font-family="Arial, sans-serif">4</text><rect x="360" y="25" width="305" height="68" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="380" y="53" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">Followers</text>
+<text x="380" y="79" fill="#c084fc" font-size="23" font-weight="700" font-family="Arial, sans-serif">0</text><rect x="25" y="113" width="305" height="68" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="45" y="141" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">Stars</text>
+<text x="45" y="167" fill="#c084fc" font-size="23" font-weight="700" font-family="Arial, sans-serif">1</text><rect x="360" y="113" width="305" height="68" rx="12" fill="#161b22" stroke="#30363d"/>
+<text x="380" y="141" fill="#8b949e" font-size="14" font-family="Arial, sans-serif">Forks</text>
+<text x="380" y="167" fill="#c084fc" font-size="23" font-weight="700" font-family="Arial, sans-serif">0</text>
+</svg>
